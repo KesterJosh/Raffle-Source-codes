@@ -1,0 +1,3 @@
+The codes Here contains all source code of the works we'll be doing. Both Raffle, Unction and cards....
+
+**The Avalanche area contains the smart contract for the raffle Avalanche**
